@@ -18,6 +18,7 @@ $count_y = $y - $birthday;
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Тахай чпокай и ебись</title>
+<title>2 title</title>
 
 <meta name="description" content=""> 
 
