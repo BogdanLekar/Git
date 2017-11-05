@@ -33,7 +33,9 @@ $count_y = $y - $birthday;
 </head>
 
 <body>
-<form></form>
+<form>
+    <input type="text">    
+</form>
 <div id="birthdey_program">
 <?php
 echo "<p>Малышка родилась - {$dey_birthday}.{$birthday}</p>";
